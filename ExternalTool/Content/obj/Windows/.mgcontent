@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Shubham Sachdeva/source/repos/MyGame/ExternalTool/Content/Player.png</File>
+    <File>C:/Users/Shubham Sachdeva/source/repos/MyGame/ExternalTool/Content/bakground.jpg</File>
+    <File>C:/Users/Shubham Sachdeva/source/repos/MyGame/ExternalTool/Content/Tile2.png</File>
+    <File>C:/Users/Shubham Sachdeva/source/repos/MyGame/ExternalTool/Content/Tile1.png</File>
+    <File>C:/Users/Shubham Sachdeva/source/repos/MyGame/ExternalTool/Content/Tile3.png</File>
+    <File>C:/Users/Shubham Sachdeva/source/repos/MyGame/ExternalTool/Content/Player1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
